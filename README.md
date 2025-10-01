@@ -15,7 +15,7 @@
 <br>$ java -jar test.jar
 <hr>
 <li>To run a <b>PHP</b> file named 'index.php' in the terminal, type:</li>
-<br>$ php -f index.php
+<p>$ php -f index.php</p>
 <li>To run a <b>PHP</b> file named 'index.php' in the browser, type:</li>
-<br>$ php -S localhost:8000
+<p>$ php -S localhost:8000</p>
 </ul>
