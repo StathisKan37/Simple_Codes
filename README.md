@@ -13,4 +13,9 @@
 <li>To compile and run a <b>Kotlin</b> code from a file named 'Kotlin_code.kt' to a file named 'test.jar' type:</li>
 <br>$ kotlin Kotlin_code.kt -include-runtime -d test.jar
 <br>$ java -jar test.jar
+<hr>
+<li>To run a <b>PHP</b> file named 'index.php' in the terminal, type:</li>
+<br>$ php -f index.php
+<li>To run a <b>PHP</b> file named 'index.php' in the browser, type:</li>
+<br>$ php -S localhost:8000
 </ul>
