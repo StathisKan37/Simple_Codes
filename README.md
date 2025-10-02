@@ -18,4 +18,5 @@
 <p>$ php -f index.php</p>
 <li>To run a <b>PHP</b> file named 'index.php' in the browser, type:</li>
 <p>$ php -S localhost:8000</p>
+<p>To turn of localhost:8000, press Ctrl + C</p>
 </ul>
