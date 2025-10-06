@@ -16,7 +16,7 @@
 <hr>
 <li>To run a <b>PHP</b> file named 'php_script.php' in the terminal, type:</li>
 <p>$ php -f php_script.php</p>
-<li>To run a <b>PHP</b> file named 'index.php' in the browser, type:</li>
-<p>$ php -S localhost:8000</p>
-<p>To turn of localhost:8000, press Ctrl + C</p>
+<li>To run a <b>PHP</b> file named 'php_script.php' in the browser, type:</li>
+<p>$ php -S localhost:8000<br>and then open the URL: http://localhost:8000/php_script.php</p>
+<p>To turn off localhost:8000, press Ctrl + C</p>
 </ul>
