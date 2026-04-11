@@ -1,7 +1,9 @@
 <ul>
+<h2>Python</h2>
 <li>To run any <b>python code</b> named 'Python_code.py' type:</li>
 <br>$ python3 Python_code.py
 <hr>
+<h2>C++</h2>
 <li>To compile and run a <b>C++</b> code from a file named 'C++_code.cpp' to a file named 'test' type:</li>
 <br>$ g++ C++_code.cpp -o test
 <br>$ ./test
@@ -20,8 +22,10 @@
 <p>$ php -S localhost:8000<br>and then open the URL: http://localhost:8000/php_script.php</p>
 <p>To turn off the localhost:8000, press Ctrl + C</p>
 <hr>
-<li>To run a node.js file we need to access node by typing:</li>
+<li>To run node.js commands we need to access node by typing:</li>
 <p>$ node</p>
 <li>To exit the node we need to type:</li>
 <p>$ .exit</p>
+<li>To run a javascript file named NodeJS_code.js type:</li>
+<p>node NodeJS_code.js</p>
 </ul>
