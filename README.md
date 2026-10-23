@@ -3,6 +3,11 @@
 <li>To run any <b>python code</b> named 'Python_code.py' type:</li>
 <br>$ python3 Python_code.py
 <hr>
+<h2>C</h2>
+<li>To compile and run a <b>C</b> code from a file named 'C_code.c' to a file named 'test' type:</li>
+<br>$ g++ C_code.c -o test
+<br>$ ./test
+<hr>
 <h2>C++</h2>
 <li>To compile and run a <b>C++</b> code from a file named 'C++_code.cpp' to a file named 'test' type:</li>
 <br>$ g++ C++_code.cpp -o test
